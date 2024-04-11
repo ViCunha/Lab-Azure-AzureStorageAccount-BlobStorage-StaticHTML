@@ -127,4 +127,6 @@ Invoke-WebRequest -Uri 'https://mystorageaccount20240410.blob.core.windows.net/$
 ![image](https://github.com/ViCunha/Lab-Azure-AzureStorageAccount-BlobStorage-StaticHTML/assets/65992033/a71cc09b-053f-4fe2-b67d-f231307e48cd)
 
 
-
+### References
+---
+- [Discover static website hosting in Azure Storage - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/explore-azure-blob-storage/5-blob-storage-static-website)
